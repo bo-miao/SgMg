@@ -1,5 +1,5 @@
 [![License](https://img.shields.io/badge/license-CC--BY--NC%204.0-green)](https://creativecommons.org/licenses/by-nc/4.0/)
-[![Framework](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?&logo=PyTorch&logoColor=white)](https://pytorch.org/)
+[![arXiv](https://img.shields.io/badge/cs.CV-%09arXiv%3A2205.00823-red)](https://arxiv.org/abs/2307.13537)
 
 The official implementation of the **ICCV 2023** paper: 
 
@@ -13,7 +13,7 @@ Spectrum-guided Multi-granularity Referring Video Object Segmentation
 
 <p align="center"><img src="docs/framework.png" width="800"/></p>
 
-> **Spectrum-guided Multi-granularity Referring Video Object Segmentation**
+> [**Spectrum-guided Multi-granularity Referring Video Object Segmentation**](https://arxiv.org/abs/2307.13537)
 >
 > Bo Miao, Mohammed Bennamoun, Yongsheng Gao, Ajmal Mian
 > 
@@ -89,10 +89,10 @@ The overall IoU is used as the metric, and the model is obtained from the pre-tr
 @article{miao2023SgMg,
       title={Spectrum-guided Multi-granularity Referring Video Object Segmentation}, 
       author={Miao, Bo and Bennamoun, Mohammed and Gao, Yongsheng and Mian, Ajmal},
-      journal={arXiv preprint arXiv:2305.17997},
+      journal={arXiv preprint arXiv:2307.13537},
       year={2023},
 }
 ```
 
 ## Contact
-If you have any question about this project, please feel free to contact bomiaobbb@gmail.com.
+If you have any questions about this project, please feel free to contact bomiaobbb@gmail.com.

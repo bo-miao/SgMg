@@ -92,11 +92,13 @@ The overall IoU is used as the metric, and the model is obtained from the pre-tr
 ## Citation
 
 ```
-@article{miao2023SgMg,
-      title={Spectrum-guided Multi-granularity Referring Video Object Segmentation}, 
-      author={Miao, Bo and Bennamoun, Mohammed and Gao, Yongsheng and Mian, Ajmal},
-      journal={arXiv preprint arXiv:2307.13537},
-      year={2023},
+@InProceedings{Miao_2023_ICCV,
+    author    = {Miao, Bo and Bennamoun, Mohammed and Gao, Yongsheng and Mian, Ajmal},
+    title     = {Spectrum-guided Multi-granularity Referring Video Object Segmentation},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+    month     = {October},
+    year      = {2023},
+    pages     = {920-930}
 }
 ```
 

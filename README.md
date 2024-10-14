@@ -6,7 +6,7 @@
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/spectrum-guided-multi-granularity-referring/referring-expression-segmentation-on-refer-1)](https://paperswithcode.com/sota/referring-expression-segmentation-on-refer-1?p=spectrum-guided-multi-granularity-referring)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/spectrum-guided-multi-granularity-referring/referring-expression-segmentation-on-davis)](https://paperswithcode.com/sota/referring-expression-segmentation-on-davis?p=spectrum-guided-multi-granularity-referring)
 
-
+## New: see the [HTR](https://github.com/bo-miao/HTR) for a stronger model and a new metric to measure temporal consistency.
 The official implementation of the **ICCV 2023** paper: 
 
 <div align="center">
@@ -16,6 +16,7 @@ Spectrum-guided Multi-granularity Referring Video Object Segmentation
 </b>
 </h1>
 </div>
+
 
 <p align="center"><img src="docs/framework.png" width="800"/></p>
 

@@ -6,7 +6,9 @@
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/spectrum-guided-multi-granularity-referring/referring-expression-segmentation-on-refer-1)](https://paperswithcode.com/sota/referring-expression-segmentation-on-refer-1?p=spectrum-guided-multi-granularity-referring)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/spectrum-guided-multi-granularity-referring/referring-expression-segmentation-on-davis)](https://paperswithcode.com/sota/referring-expression-segmentation-on-davis?p=spectrum-guided-multi-granularity-referring)
 
-## New: see the new work [HTR](https://github.com/bo-miao/HTR) (Mar 2024), the first end-to-end decoupled framework that improves the baseline by 4.7%. It identifies aligned frames for text-conditioned segmentation and builds memory, then propagates mask features to segment the remaining frames for temporally consistent R-VOS. A new metric for evaluating temporal consistency is also introduced.
+## New: see the new work [HTR](https://github.com/bo-miao/HTR) (TCSVT 2024), the first end-to-end decoupled framework that improves the baseline by 4.7%. It identifies aligned frames for text-conditioned segmentation and builds memory, then propagates mask features to segment the remaining frames for temporally consistent R-VOS. A new metric for evaluating temporal consistency is also introduced.
+
+## New: see our latest work [RefHuman](https://github.com/bo-miao/RefHuman) (NeurIPS 2024), which introduces a unified model for referring to any person in the wild using text, clicks, or scribbles!
 
 The official implementation of the **ICCV 2023** paper: 
 
